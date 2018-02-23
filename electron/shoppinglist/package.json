@@ -1,0 +1,14 @@
+{
+  "name": "shoppinglist",
+  "version": "1.0.0",
+  "description": "shopping list app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "CanftIn",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^1.8.2"
+  }
+}
