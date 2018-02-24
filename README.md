@@ -3,10 +3,14 @@ my nodejs project
 
 ## Project List
 
-- basic on electron
+#### electron project
 
 [shoppinglist](./electron/shoppinglist)
 
-- basic on websocket(socket.io)
+#### websocket project(socket.io)
 
 [chatroom](./chatroom)
+
+#### parcel-bundler project
+
+[finddit](./finddit)

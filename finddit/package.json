@@ -1,0 +1,17 @@
+{
+  "name": "redditapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "parcel": "parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^8.0.0",
+    "babel-preset-env": "^1.6.1",
+    "parcel-bundler": "^1.5.1",
+    "postcss-modules": "^1.1.0"
+  }
+}
