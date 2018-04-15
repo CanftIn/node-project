@@ -1,0 +1,29 @@
+{
+  "name": "oni",
+  "version": "0.0.0",
+  "description": "a tiny static web server",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "bin": {
+    "oni": "./bin/oni"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CanftIn/node-project.git"
+  },
+  "keywords": [
+    "web",
+    "server"
+  ],
+  "author": "CanftIn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CanftIn/node-project/issues"
+  },
+  "homepage": "https://github.com/CanftIn/node-project#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
