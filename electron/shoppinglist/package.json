@@ -9,6 +9,6 @@
   "author": "CanftIn",
   "license": "MIT",
   "dependencies": {
-    "electron": "^1.8.2"
+    "electron": "^9.1.0"
   }
 }
